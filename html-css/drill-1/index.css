@@ -1,0 +1,35 @@
+.Dark-gray-box{
+    width: 100%;
+    height:150px;
+    background-color:rgb(90, 90, 90);
+}
+
+.Light-gray-box{
+    width: 15%;
+    height:800px;
+    background-color: lightgray;
+}
+
+.Light-gray-box2{
+    height: 100%;
+    width:15%;
+    background: lightgray;
+
+    position: fixed;
+    top:50%;
+    left: 50%;
+    margin-top: -327px;
+    margin-left: 664px;
+}
+
+.Black-box{
+    height:10%;
+    width:69.2%;
+    background: black;
+
+    position: fixed;
+    top:50%;
+    left: 50%;
+    margin-top: 378px;
+    margin-left: -665px;
+}
